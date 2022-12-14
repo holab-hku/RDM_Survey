@@ -6,7 +6,7 @@ library(dplyr)
 library(scales)
 
 #Load RDM_dataset
-RDM_dataset <- read.csv("RDM_dataset.csv");#  read.csv('https://datahub.hku.hk/ndownloader/files/38527043')
+RDM_dataset <- read.csv('https://datahub.hku.hk/ndownloader/files/38527043')
 
 
 #Faculty and occupation
